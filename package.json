@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/srizzon/git-city"
   },
-  "author": "Samuel Rizzon",
+  "author": "Samuel Rizzon", 
   "license": "AGPL-3.0",
   "keywords": [
     "github",
@@ -56,7 +56,7 @@
     "stripe": "^20.3.1",
     "svix": "^1.89.0",
     "three": "^0.183.0"
-  },
+  },  
   "devDependencies": {
     "@napi-rs/canvas": "^0.1.97",
     "@tailwindcss/postcss": "^4",
