@@ -4,6 +4,6 @@
   "parties": {
     "lobby": "party/lobby.ts",
     "fly": "party/fly.ts"
-  },
+  }, 
   "compatibilityDate": "2025-06-01"
 }
