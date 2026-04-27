@@ -72,7 +72,7 @@ cp .env.example .env.local
 # Windows (Command Prompt)
 copy .env.example .env.local
 
-# Windows (PowerShell)
+# Windows (PowerShell) 
 Copy-Item .env.example .env.local
 
 # Fill in your environment variables
