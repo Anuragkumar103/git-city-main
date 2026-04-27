@@ -59,11 +59,11 @@ supabase/
 ## Key files
 
 | File | What it does |
-|------|-------------|
+|------|-------------| 
 | `src/components/InstancedBuildings.tsx` | WebGL instanced rendering for thousands of buildings |
 | `src/components/CityCanvas.tsx` | Main Three.js scene setup |
-| `src/lib/raid.ts` | Raid system (PvP, scoring, limits) |
-| `src/lib/items.ts` | Shop items, equipping, zones |
-| `src/lib/xp.ts` | XP leveling (25 levels, 6 tiers) |
+| `src/lib/raid.ts` | Raid system (PvP, scoring, limits) | 
+| `src/lib/items.ts` | Shop items, equipping, zones | 
+| `src/lib/xp.ts` | XP leveling (25 levels, 6 tiers) | 
 | `src/lib/stripe.ts` | Stripe checkout sessions |
 | `src/app/api/webhooks/stripe/route.ts` | Stripe webhook handler |
