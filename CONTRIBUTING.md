@@ -136,6 +136,7 @@ Kill the process using port 3001, or change `NEXT_PUBLIC_BASE_URL` and the dev s
 Run `npm install` to pick up any new dependencies, then `npm run lint` to surface type issues.
 
 ## Questions?
+## Questions?
 
 Open an issue or reach out on [X/Twitter](https://x.com/samuelrizzondev).
 
