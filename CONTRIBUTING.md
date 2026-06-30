@@ -120,6 +120,8 @@ The city is rendered with React Three Fiber. Key files:
 If you're adding a new building effect or item, start with `zones.ts`.
 
 ## Troubleshooting
+## Troubleshooting
+
 
 **`npm run dev` fails with a Supabase error**
 Make sure `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY` are set correctly in `.env.local`.
